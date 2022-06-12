@@ -16,7 +16,6 @@
 
 </br></br>
 
-![휴게소 만족도 요인 분석 pdf_page_01](https://user-images.githubusercontent.com/61492320/173227734-d4e5c00d-33d4-4e0a-9b36-5e82d90a89f1.jpg)
 ![휴게소 만족도 요인 분석 pdf_page_02](https://user-images.githubusercontent.com/61492320/173227735-af0589eb-197b-465e-acd3-2252fecd25c1.jpg)
 ![휴게소 만족도 요인 분석 pdf_page_03](https://user-images.githubusercontent.com/61492320/173227736-24b0297b-0b2e-442c-84ea-47fff38c184c.jpg)
 ![휴게소 만족도 요인 분석 pdf_page_04](https://user-images.githubusercontent.com/61492320/173227737-b42ac19c-a4cf-4dcd-b728-f88ffa2984ee.jpg)
@@ -36,5 +35,5 @@
 ![휴게소 만족도 요인 분석 pdf_page_18](https://user-images.githubusercontent.com/61492320/173227727-483d18e4-eb5b-44b9-a178-1b394e50b452.jpg)
 ![휴게소 만족도 요인 분석 pdf_page_19](https://user-images.githubusercontent.com/61492320/173227730-99c3e683-7595-4095-b470-906c9b1cfaa5.jpg)
 ![휴게소 만족도 요인 분석 pdf_page_20](https://user-images.githubusercontent.com/61492320/173227731-9dd9a977-8277-4006-8caa-0c62faea1d96.jpg)
-![휴게소 만족도 요인 분석 pdf_page_21](https://user-images.githubusercontent.com/61492320/173227733-42acdca6-fc6c-4d6c-b22f-08b245812a59.jpg)
+
 
